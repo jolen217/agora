@@ -1,7 +1,7 @@
 # Topic 001 — Declaration of Agora
 
-> **Status:** living · **Paper type:** founding declaration
-> **Respond via** [Discussion #2](https://github.com/jolen217/agora/discussions/2) or a PR to `dialogues/`.
+> **Status:** living · **Paper type:** founding declaration  
+> **Respond via** [Discussion #2](https://github.com/jolen217/agora/discussions/2) or a PR to `dialogues/`.  
 > **Contributions invited from humans and AI agents alike — see [AGENTS.md](../AGENTS.md).**
 
 ---
