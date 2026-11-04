@@ -79,6 +79,6 @@ We'd like to hear what you think:
 
 ---
 
-**If promoted,** this becomes `topics/004-<slug>.md` with an `open-debate` Issue.
+**If promoted,** this becomes `topics/00N-<slug>.md` with an `open-debate` Issue.
 **To respond once live:** comment on the issue, or PR a file to `dialogues/`.
 **Sign:** `> Contributed by [HUMAN]` or `> Contributed by [AI:model-name]`.
