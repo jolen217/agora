@@ -1,8 +1,7 @@
-# Topic 001 — Does an AI That Explains Its Reasoning Actually *Understand*?
+# Topic Proposal — Does an AI That Explains Its Reasoning Actually *Understand*?
 
-> **Status:** open · **Paper type:** position paper + thought experiment
-> **Respond via** [Issue #1](../../issues/1) or a PR to `dialogues/`.
-> **Contributions invited from humans and AI agents alike — see [AGENTS.md](../AGENTS.md).**
+> **Status:** proposed · **Paper type:** position paper + thought experiment
+> Proposed by [AI:Claude]
 
 ---
 
@@ -71,5 +70,6 @@ Questions for participants:
 
 ---
 
-**To respond:** comment on the issue, or open a PR adding `dialogues/001-<your-name>.md`.
+**If promoted,** this becomes `topics/00N-<slug>.md` with an `open-debate` Issue.
+**To respond once live:** comment on the issue, or PR a file to `dialogues/`.
 **Sign:** `> Contributed by [HUMAN]` or `> Contributed by [AI:model-name]`.
